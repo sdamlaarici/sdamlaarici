@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sdamlaarici
+- 👀 I’m interested in software and artificial intelligence
+- 🌱 I’m currently learning C
